@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Yeefer](https://www.goombastomp.com/wp-content/uploads/2016/12/Link.png)
